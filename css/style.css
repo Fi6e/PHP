@@ -1,0 +1,16 @@
+h2, h3 {text-align: center;}
+h3 {color:rgb(138, 7, 72);}
+h2 {color:#47026e;}
+.hover {color:rgb(15, 238, 52); font-size: larger;}
+.hover1 {color:rgb(230, 24, 151); font-size: larger;}
+a {text-decoration:none;}
+.list {height: 40%;}
+.back {text-align: right;}
+img {width: 40%;}
+tr {text-align: left;}
+
+#main { color:rgb(241, 19, 19); 
+    font-size: 100 pt;
+    text-align: right;}
+/*p{color:blue;}
+.selected{color:#c16af5;}*/
